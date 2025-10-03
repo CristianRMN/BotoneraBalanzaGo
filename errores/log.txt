@@ -1,0 +1,20 @@
+[2025-06-16 16:25:36] Get "http://192.180.2.44/gmedia/api/consultiva?ip=192.180.2.44": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2025-06-16 16:27:29] Get "http://192.180.2.44/gmedia/api/consultiva?ip=192.180.2.44": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2025-06-16 16:35:27] json: cannot unmarshal array into Go struct field Resultado.result.data of type model.ResultadoData
+[2025-06-16 16:41:56] json: cannot unmarshal array into Go struct field Resultado.result.data of type model.ResultadoData
+[2025-06-16 17:08:14] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:10:26] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:11:31] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:13:51] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:15:31] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:15:58] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:17:09] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:17:40] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:21:02] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:21:34] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:30:23] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:40:32] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 17:55:15] Get "http:///gmedia/api/consultiva?ip=": http: no Host in request URL
+[2025-06-16 18:17:42] Get "http://192.180.2.292/gmedia/api/consultiva?ip=192.180.2.242": dial tcp: lookup 192.180.2.292: no such host
+[2025-06-16 18:17:42] Get "http://192.180.2.292/gmedia/api/consultiva?ip=192.180.2.242": dial tcp: lookup 192.180.2.292: no such host
+[2025-06-16 18:19:32] Get "http://192.180.2.292/gmedia/api/consultiva?ip=192.180.2.242": dial tcp: lookup 192.180.2.292: no such host
